@@ -25,6 +25,15 @@ X. Wu, D. Hong, J. Chanussot. UIU-Net: U-Net in U-Net for Infrared Small Object 
       publisher = {IEEE}
      }
 
+
+System-specific notes
+---------------------
+Please refer to the file of `requirements.txt` for the running enviroment of this code.
+
+:exclamation: The model in `saved_models/uiunet` can be downloaded from the following baiduyun:
+
+Baiduyun: https://pan.baidu.com/s/11JSqFKxq7XTvTzgOIWfdOg  (access code: eu9f)
+
 Licensing
 ---------
 
