@@ -13,15 +13,15 @@ Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-X. Wu, D. Hong, J. Chanussot. UIU-Net: U-Net in U-Net for Infrared Small Object Detection, IEEE Trans. Image. Process., 2022, 32: 364-376. 
+X. Wu, D. Hong, J. Chanussot. UIU-Net: U-Net in U-Net for Infrared Small Object Detection, IEEE Trans. Image. Process., 2023, 32: 364-376. 
 
-     @article{wu2022uiu,
+     @article{wu2023uiu,
       title     = {UIU-Net: U-Net in U-Net for Infrared Small Object Detection},
       author    = {X. Wu and D. Hong and J. Chanussot},
       journal   = {IEEE Trans. Image. Process.}, 
       volume    = {32},
       pages     = {364--376},
-      year      = {2022},
+      year      = {2023},
       publisher = {IEEE}
      }
 
