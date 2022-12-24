@@ -6,7 +6,7 @@
 The code in this toolbox implements the ["UIU-Net: U-Net in U-Net for Infrared Small Object Detection"](https://ieeexplore.ieee.org/document/9989433).
 More specifically, it is detailed as follow.
 
-![alt text](./Motivation_GCN.png)
+![alt text](./outline.jpg)
 
 Citation
 ---------------------
