@@ -33,6 +33,7 @@ Please refer to the file of `requirements.txt` for the running enviroment of thi
 :exclamation: The model in `saved_models/uiunet` can be downloaded from the following baiduyun:
 
 Baiduyun: https://pan.baidu.com/s/11JSqFKxq7XTvTzgOIWfdOg  (access code: eu9f)
+Google drive: https://drive.google.com/file/d/1wZ_W5-Wj3wOt7kMB6nwa0xntZTD14sPZ/view?usp=share_link
 
 Licensing
 ---------
